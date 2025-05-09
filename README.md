@@ -77,6 +77,14 @@ I'm always open to connecting with like-minded professionals, discussing new tec
 
 I love learning new frameworks and languages and always stay up-to-date with the latest trends in software development.
 
+---
+
+## 🖥 Interface Preview
+
+<p align="center">
+  <img src="https://res.cloudinary.com/ddbnshcow/image/upload/v1746772415/Screenshot_from_2025-05-09_11-31-04_luegcs.png" alt="Agentic Accounting Interface Preview" />
+</p>
+
 <br/>
 
 <h3 align="center">
